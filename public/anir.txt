@@ -1,0 +1,10 @@
+create app :- yarn create vite
+
+for redux toolkit = react-redux axios react-router-dom @reduxjs/toolkit
+
+
+action 
+slice 
+store
+
+
